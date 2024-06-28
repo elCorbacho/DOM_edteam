@@ -1,5 +1,8 @@
-body {
+form {
     background-color: aquamarine;
+    display: flex;
+    justify-content: center;
+    border: 1px solid black;
 }
 
 .clase {
